@@ -28,5 +28,5 @@ def get_grade(first_score, second_score, third_score):
         grade = "F"
    
     return grade
-    
-print(get_grade(first_score, second_score, third_score))
+grade = get_grade(first_score, second_score, third_score)
+print(grade)

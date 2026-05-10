@@ -7,7 +7,7 @@
 #
 #Call the function
 #Print the final result
-#
+
 
 first_number = int(input("Enter first number: "))
 operator = input("Enter operator: ")
