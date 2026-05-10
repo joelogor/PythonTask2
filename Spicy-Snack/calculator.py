@@ -7,7 +7,7 @@
 #
 #Call the function
 #Print the final result
-#
+
 
 first_number = int(input("Enter first number: "))
 operator = input("Enter operator: ")
@@ -29,12 +29,4 @@ def calculate(first_number, operator, second_number):
     
 result =  calculate(first_number, operator, second_number)
  
-print(result)Get first_number from user
-Get operator from user (+, -, *, /, etc.)
-Get second_number from user
-
-Perform the arithmetic operation based on the given operator
-Return the computed result
-
-Call the function
-Print the final result
+print(result) 
